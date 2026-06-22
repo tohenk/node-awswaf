@@ -1,6 +1,6 @@
 {
   "name": "@ntlab/awswaf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Port of AWS WAF (Amazon Web Services Web Application Firewall) Solver using Axios",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,10 @@
     "url": "https://github.com/tohenk/node-awswaf.git"
   },
   "keywords": [
-    "simultaneous",
-    "fetch"
+    "aws",
+    "waf",
+    "axios",
+    "solver"
   ],
   "author": "Toha <tohenk@yahoo.com>",
   "license": "MIT",
